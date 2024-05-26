@@ -4,7 +4,7 @@
 ### <div align="center">I'm Aditya Nair, Laravel Developer</div>  
   
 
-<div align="center"> I’m currently studying MCA at Dharmsinh Desai University.</div>  
+<div align="center"> I’m currently studying MCA at Dharmsinh Desai University.<br/>I have achieved 3rd rank in the Bachelor of Computer Applications (BCA) program at Kachchh University</div>  
   
 
 <br/>  
