@@ -4,7 +4,7 @@
 ### <div align="center">I'm Aditya Nair, Laravel Developer</div>  
   
 
-<div align="center"> I’m currently studying MCA at Dharmsinh Desai University.<br/>I have achieved 3rd rank in the Bachelor of Computer Applications (BCA) program at Kachchh University</div>  
+<div align="center"> I’m currently studying MCA at Dharmsinh Desai University.<br/>I secured 3rd rank in the Bachelor of Computer Applications (BCA) program at Kachchh University, and was recognized as the "Best Boy" at Modern School, Gandhidham, as well as "Most Creative" at DNV International Education Academy, Gandhidham.</div>  
   
 
 <br/>  
