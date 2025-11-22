@@ -13,6 +13,11 @@ Always learning, always improving — and always excited to work on impactful pr
 ### Languages & Technologies  
 
 <!-- HORIZONTAL GRID (NO BORDERS) -->
+## My Skill Set  
+
+### Languages & Technologies  
+
+<!-- HORIZONTAL GRID (NO BORDERS) -->
 <table align="center">
   <tr>
     <td align="center">
@@ -81,8 +86,12 @@ Always learning, always improving — and always excited to work on impactful pr
     <td align="center">
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="38"><br>NestJS
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="45"><br>Tailwind CSS
+    </td>
   </tr>
 </table>
+
 
 <br/>
 
