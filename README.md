@@ -27,8 +27,13 @@ I’m currently studying MCA at Dharmsinh Desai University. I am passionate abou
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sequelize-original-wordmark.svg" alt="Sequelize" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs-original-wordmark.svg" alt="NestJS" height="50" /></a>  
+<a href="https://sequelize.org/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" height="50" />
+</a>
+<a href="https://nestjs.com/" target="_blank">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" height="50" />
+</a>
+  
 </div>  
 
 <br/>  
