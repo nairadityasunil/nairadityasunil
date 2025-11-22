@@ -87,7 +87,7 @@ Always learning, always improving — and always excited to work on impactful pr
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="38"><br>NestJS
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="45"><br>Tailwind CSS
+      <img style="margin: 10px" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40"><br>Tailwind Css
     </td>
   </tr>
 </table>
