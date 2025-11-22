@@ -106,7 +106,3 @@ Always learning, always improving — and always excited to work on impactful pr
 
 <br/>
 
-## Github Stats  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nairadityasunil&show_icons=true&count_private=true&hide_border=true" />
-</div>
