@@ -8,10 +8,6 @@ Always learning, always improving — and always excited to work on impactful pr
 
 <br/>
 
-## My Skill Set  
-
-### Languages & Technologies  
-
 <!-- HORIZONTAL GRID (NO BORDERS) -->
 ## My Skill Set  
 
