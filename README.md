@@ -31,8 +31,10 @@ I’m currently studying MCA at Dharmsinh Desai University. I am passionate abou
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" height="50" />
 </a>
 <a href="https://nestjs.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" height="50" />
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/nestjs/nest/master/logo/nest-logo.png" alt="NestJS" height="50" />
 </a>
+
+
   
 </div>  
 
