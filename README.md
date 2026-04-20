@@ -1,9 +1,7 @@
 ### <div align="center">Hi, I'm Aditya Nair 👋</div>
 
 <div align="center">
-I'm a passionate Full-Stack Developer specializing in **Laravel** and the **MERN Stack**.  
-I build scalable backend systems, intuitive UIs, and performant REST APIs.  
-Always learning, always improving — and always excited to work on impactful projects.
+I have experience building scalable backend systems and responsive web applications using tools like  JavaScript, TypeScript, PHP, Node.js, Laravel, and React.js, PostgreSQL, MySQL, MongoDB, Tailwind CSS, and Bootstrap, and I enjoy working on clean architecture, APIs, and efficient software solutions.
 </div>
 
 <br/>
